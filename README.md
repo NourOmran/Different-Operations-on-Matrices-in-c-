@@ -10,4 +10,4 @@ Matrices Multiplication strassen <br />
 only 2*2 Matrix  O(n^2.807 ) <br />
 Matrices transposition:O(n^2) <br />
 Matrices abs : O(n^2) <br />                                                                                                                                                                                                                                                                                
-Determinant of a Given Matrix. <br />
+Determinant of a Given Matrix. 
