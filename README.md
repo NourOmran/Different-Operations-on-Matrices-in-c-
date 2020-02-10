@@ -1,9 +1,9 @@
-# Different-Operations-on-Matrices-in-c-
+# Different-Operations-on-Matrices-in-c sharp
 Different Operations on Matrices in c#
 ## project Notes
-Different Operations on Matrices
-Methods
-Matrices Addition:O(n^2),
+### Different Operations on Matrices
+Methods__
+Matrices Addition:O(n^2)__
 Matrices Subtraction : O(n^2),
 Matrices Multiplication: O(n^3),
 Matrices Multiplication strassen
