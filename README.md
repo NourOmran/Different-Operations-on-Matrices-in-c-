@@ -2,7 +2,7 @@
 Different Operations on Matrices in c#
 ## project Notes
 ### Different Operations on Matrices
-Methods__
+Methods <br />
 Matrices Addition:O(n^2)__
 Matrices Subtraction : O(n^2),
 Matrices Multiplication: O(n^3),
